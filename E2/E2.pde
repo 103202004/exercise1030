@@ -1,4 +1,3 @@
-
 PImage sun ;
 PImage earth ;
 PImage moon ;
