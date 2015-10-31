@@ -1,4 +1,4 @@
-/* @pjs preload=
+@pjs preload=
 "earth.png,
 moon.png,
-sun.png"; */
+sun.png"; 
